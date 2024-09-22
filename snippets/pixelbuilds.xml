@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="pixelbuilds"
-          fetch="https://github.com/PixelBuildsROM"
+          fetch="https://github.com/PixelBuilds-custom"
           revision="unity" />
 
   <remote name="pixelbuilds-blobs-gitlab"
